@@ -1,0 +1,15 @@
+C:\GeekBrains\Hometask4\Задачи\Задача 29\bin\Debug\net6.0\Задача 29.exe
+C:\GeekBrains\Hometask4\Задачи\Задача 29\bin\Debug\net6.0\Задача 29.deps.json
+C:\GeekBrains\Hometask4\Задачи\Задача 29\bin\Debug\net6.0\Задача 29.runtimeconfig.json
+C:\GeekBrains\Hometask4\Задачи\Задача 29\bin\Debug\net6.0\Задача 29.dll
+C:\GeekBrains\Hometask4\Задачи\Задача 29\bin\Debug\net6.0\Задача 29.pdb
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\Задача 29.csproj.AssemblyReference.cache
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\Задача 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\Задача 29.AssemblyInfoInputs.cache
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\Задача 29.AssemblyInfo.cs
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\Задача 29.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\Задача 29.dll
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\refint\Задача 29.dll
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\Задача 29.pdb
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\Задача 29.genruntimeconfig.cache
+C:\GeekBrains\Hometask4\Задачи\Задача 29\obj\Debug\net6.0\ref\Задача 29.dll
